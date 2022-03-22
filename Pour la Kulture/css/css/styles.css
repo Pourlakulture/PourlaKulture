@@ -1,0 +1,107 @@
+
+
+    
+/* Import des ecritures */
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+ @import url(https://fonts.googleapis.com/css2?family=Smokum&display=swap);
+ @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Anton&display=swap');
+@import url(https://github.com/googlefonts/AmaticSC);
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+</style>
+
+    /* haut de la page */
+
+    body
+{margin: 0 auto;}
+
+header 
+{  display: flex;
+    align-items: center;
+}
+
+section.top-page {
+background-color: rgb(0, 0, 0);
+height: 70px;
+background-size: cover;
+padding: 3px;
+}
+
+/* menu de navigation */
+
+nav.nav{
+display: flex;
+list-style: none;
+justify-content: space-between;
+width: 1600px;
+margin-left: 110px;
+margin-top: -30px;
+font-size: 20px;
+font-weight: 650;
+color: rgba(255, 255, 255, 0.897);
+
+font-family: 'Anton';
+}
+
+/* Titre */
+
+.landing-page {
+    display: flex;
+   list-style: none;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: -38px;
+  margin-left: 805px;
+  margin-bottom: -70px;
+    font-family: smokum;
+   font-size: 27px;
+    font-stretch: expanded;
+}
+
+
+
+/* page 1 */
+
+.first-page 
+{background-color: rgb(107, 0, 0);
+height: 1200px;
+background-size: cover;
+
+}
+
+/* 1ere section */
+
+.Titre {
+    padding-left: 107px;
+padding-top: 55px;
+font-size: 50px;
+font-family: fantasy;
+color: rgb(0, 0, 0);
+}
+
+    nav.Decouvrir {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    margin-top: 70px;
+background-color: rgb(0, 0, 0);
+    }
+
+  /* bas de la page */
+
+.basdelapage {
+
+    background-color: rgb(255, 255, 255);
+    height: 180px;
+
+}
+ 
+.end {
+
+    font-size: 50px;
+
+}
+
+
+
+
